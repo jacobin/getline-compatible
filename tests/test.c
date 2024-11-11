@@ -33,8 +33,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "getline.h"
-#include "ggets.h"
+#include "../getline.h"
+#include "../ggets.h"
 
 #ifndef SIZE_MAX
     #define SIZE_MAX ((size_t) -1)
